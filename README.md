@@ -1,6 +1,5 @@
 - Hi, I’m @StoopidLoser
-- I’m interested in coding
-- Email: bakral78@gmail.com
+- I'm doing stuff with web dev rn
 
 <!---
 StoopidLoser/StoopidLoser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
