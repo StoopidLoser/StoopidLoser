@@ -1,5 +1,6 @@
-- Hi, I’m @StoopidLoser
-- I'm doing stuff with web dev rn
+Hi, I’m @StoopidLoser
+
+I'm learning about backend development and am having a great time. :)
 
 <!---
 StoopidLoser/StoopidLoser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
